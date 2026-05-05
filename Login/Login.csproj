@@ -14,8 +14,8 @@
 
     <ItemGroup>
         <Resource Include="Images\background.jpg"/>
-        <None Remove="Images\chikorita.png" />
-        <Resource Include="Images\chikorita.png" />
+        <None Remove="Images\chikorita.png"/>
+        <Resource Include="Images\chikorita.png"/>
     </ItemGroup>
 
 </Project>
